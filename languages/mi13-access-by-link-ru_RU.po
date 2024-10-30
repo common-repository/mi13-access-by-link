@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mi13-access-by-link\n"
+"POT-Creation-Date: 2019-05-20 07:09+0300\n"
+"PO-Revision-Date: 2019-05-20 07:09+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: mi13-access-by-link.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: mi13-access-by-link.php:84
+msgid "Administrator can publish posts only."
+msgstr "Публиковать посты может только Администратор."
+
+#: mi13-access-by-link.php:85
+msgid "Please, come back"
+msgstr "Вернуться на предыдущую страницу"
+
+#: mi13-access-by-link.php:116
+msgid "for posts with the status of pending"
+msgstr "для постов со статусом на утверждении"
+
+#: mi13-access-by-link.php:165
+msgid "Your posts (pending) and private links for them"
+msgstr "Ваши посты (на утверждении) и приватные ссылки к ним"
+
+#. Description of the plugin/theme
+#: mi13-access-by-link.php:205
+msgid "Access to your posts (pending) by link."
+msgstr "Доступ к Вашим постам (на утвеждении) по ссылке."
+
+#: mi13-access-by-link.php:208
+msgid "Settings"
+msgstr "Настройки"
+
+#: mi13-access-by-link.php:216
+msgid "Filters:"
+msgstr "Фильтры форматирования:"
+
+#: mi13-access-by-link.php:218
+msgid "Note: Some functions may not work here."
+msgstr "Примечание: Некоторые функции могут не работать здесь."
+
+#: mi13-access-by-link.php:223
+msgid "Note: Please use constants $title, $content, $cat and $thumbnail."
+msgstr ""
+"Примечание: Пожалуйста, используйте константы $title, $content, $cat и "
+"$thumbnail."
+
+#: mi13-access-by-link.php:230
+msgid "Private key:"
+msgstr "Приватный ключ:"
+
+#: mi13-access-by-link.php:232
+msgid "Note: The key will be deleted when the post is published."
+msgstr "Примечание: Ключ будет удален при публикации поста."
+
+#: mi13-access-by-link.php:235
+msgid "Administrator can publish posts only:"
+msgstr "Публиковать посты может только Администратор:"
+
+#: mi13-access-by-link.php:258
+msgid "This function was not found! Please, edit \"filters\" field."
+msgstr "Эта функция не найдена! Пожалуйста, отредактируйте поле \"Фильтры\"."
+
+#: mi13-access-by-link.php:284
+msgid "Category"
+msgstr "Рубрика"
+
+#. Plugin Name of the plugin/theme
+msgid "mi13-access-by-link"
+msgstr "mi13-access-by-link"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/mi13-access-by-link/"
+msgstr "https://wordpress.org/plugins/mi13-access-by-link/"
+
+#. Author of the plugin/theme
+msgid "mi13"
+msgstr "mi13"
